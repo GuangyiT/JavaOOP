@@ -26,7 +26,7 @@ If the import does not work follow the steps below.
 - Add data/ as src
 
 ## Quick view of the Result
-[result](https://github.com/GuangyiT/JavaOOP/blob/master/quickview.png?raw=true)
+![result](https://github.com/GuangyiT/JavaOOP/blob/master/quickview.png?raw=true)
 
 
 
